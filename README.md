@@ -22,7 +22,4 @@ This version was made to exhibit in the UFRN 2024 Mostra de Profissões.
   ./build/snaze_release
   ```
 
-There's no way to quit the program use `Ctrl + C` to stop it.
-
-  ```
-  ```
+There's no way to quit the program, so you will have to use `Ctrl + C` to stop it.
