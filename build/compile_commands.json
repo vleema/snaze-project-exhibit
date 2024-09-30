@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/lib/ini_file_parser.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/lib/ini_file_parser.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/lib/ini_file_parser.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/lib/ini_file_parser.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/lib/terminal_utils.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/lib/terminal_utils.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/lib/terminal_utils.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/lib/terminal_utils.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/lib/utils.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/lib/utils.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/lib/utils.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/lib/utils.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/src/game_manager.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/game_manager.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/game_manager.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/src/game_manager.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/src/game_manager_utils.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/game_manager_utils.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/game_manager_utils.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/src/game_manager_utils.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/src/main.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/main.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/main.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/src/maze.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/maze.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/maze.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/src/maze.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -Wall -pedantic -g3 -O0 -o CMakeFiles/snaze_debug.dir/src/snake.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/snake.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/snake.cpp",
+  "output": "CMakeFiles/snaze_debug.dir/src/snake.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/lib/ini_file_parser.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/lib/ini_file_parser.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/lib/ini_file_parser.cpp",
+  "output": "CMakeFiles/snaze_release.dir/lib/ini_file_parser.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/lib/terminal_utils.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/lib/terminal_utils.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/lib/terminal_utils.cpp",
+  "output": "CMakeFiles/snaze_release.dir/lib/terminal_utils.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/lib/utils.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/lib/utils.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/lib/utils.cpp",
+  "output": "CMakeFiles/snaze_release.dir/lib/utils.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/src/game_manager.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/game_manager.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/game_manager.cpp",
+  "output": "CMakeFiles/snaze_release.dir/src/game_manager.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/src/game_manager_utils.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/game_manager_utils.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/game_manager_utils.cpp",
+  "output": "CMakeFiles/snaze_release.dir/src/game_manager_utils.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/src/main.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/main.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/main.cpp",
+  "output": "CMakeFiles/snaze_release.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/src/maze.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/maze.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/maze.cpp",
+  "output": "CMakeFiles/snaze_release.dir/src/maze.cpp.o"
+},
+{
+  "directory": "/home/dio/codeclusterfuck/snaze-profissões/build",
+  "command": "/usr/bin/c++  -I/home/dio/codeclusterfuck/snaze-profissões/src/include -I/home/dio/codeclusterfuck/snaze-profissões/lib/include -std=gnu++17 -O3 -DNDEBUG -o CMakeFiles/snaze_release.dir/src/snake.cpp.o -c /home/dio/codeclusterfuck/snaze-profissões/src/snake.cpp",
+  "file": "/home/dio/codeclusterfuck/snaze-profissões/src/snake.cpp",
+  "output": "CMakeFiles/snaze_release.dir/src/snake.cpp.o"
+}
+]
