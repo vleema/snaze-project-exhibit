@@ -1,4 +1,0 @@
-/home/dio/codeclusterfuck/snaze-profissões/build/CMakeFiles/snaze_debug.dir
-/home/dio/codeclusterfuck/snaze-profissões/build/CMakeFiles/snaze_release.dir
-/home/dio/codeclusterfuck/snaze-profissões/build/CMakeFiles/edit_cache.dir
-/home/dio/codeclusterfuck/snaze-profissões/build/CMakeFiles/rebuild_cache.dir
